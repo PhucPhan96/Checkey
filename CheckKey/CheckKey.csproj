@@ -38,6 +38,7 @@
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Management" />
     <Reference Include="System.Net.Http.Formatting">
       <HintPath>.\System.Net.Http.Formatting.dll</HintPath>
     </Reference>
